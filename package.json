@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "chromedriver": "^123.0.1",
+    "cypress": "^13.7.1",
+    "cypress-iframe": "^1.0.1"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "cypress-recurse": "^1.35.3"
+  }
+}
